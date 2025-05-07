@@ -76,22 +76,3 @@ I specialize in Python and surveillance. I love doing spacial-temporal analysis 
 
 <br/>
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=eduramosalves&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
