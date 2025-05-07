@@ -29,9 +29,7 @@ I specialize in Python and surveillance. I love doing spacial-temporal analysis 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+## Rapidfire
 - 🔭 I’m currently studying Science Data applied in health care  
   
 
