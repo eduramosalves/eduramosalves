@@ -72,11 +72,9 @@ I specialize in Python and surveillance. I love doing spacial-temporal analysis 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduramosalves&hide_border=true&layout=compact" align="left" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduramosalves&hide_border=true&layout=compact" align="center" /></div>  
 
-</td></tr></table>  
-
-<br/>  
+<br/>
 
   
 
