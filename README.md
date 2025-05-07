@@ -1,4 +1,5 @@
-## Hey 👋, I'm Eduardo Ramos!  
+![github-header-image](https://github.com/user-attachments/assets/673ae8b4-79e6-48b6-8f24-d06e5a373057)
+# Hey 👋, I'm Eduardo Ramos!  
   
 
 
