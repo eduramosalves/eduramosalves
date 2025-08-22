@@ -1,6 +1,4 @@
 ![github-header-image](https://github.com/user-attachments/assets/673ae8b4-79e6-48b6-8f24-d06e5a373057)
-  
-### Hi there 👋, my name is Eduardo Alves
 
 **Biomedical Specialist in Data Science & Bioinformatics**  
 Email: [eduardoramosalves23@gmail.com](mailto:eduardoramosalves23@gmail.com)  
