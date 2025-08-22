@@ -2,7 +2,6 @@
 
 **Biomedical Specialist in Data Science & Bioinformatics**  
 Email: [eduardoramosalves23@gmail.com](mailto:eduardoramosalves23@gmail.com)  
-Phone: +55 (71) 98887-6760  
 Location: Bahia, Brazil  
 
 ---
