@@ -13,47 +13,68 @@
 
 ---
 
-### Now
+![data](https://img.shields.io/static/v1?label=&message=data:&color=111&style=flat-square)
+![sql-server](https://img.shields.io/static/v1?label=&message=SQL%20Server%20%2F%20T-SQL&color=36465D&style=flat-square)
+![power-bi](https://img.shields.io/static/v1?label=&message=Power%20BI&color=36465D&style=flat-square)
+![excel](https://img.shields.io/static/v1?label=&message=Excel&color=36465D&style=flat-square)
 
-**Intern Analyst, Fraud Strategies — [InComm Payments](https://www.incomm.com/)** (2026 – present)
+![code](https://img.shields.io/static/v1?label=&message=code:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?label=&message=Python&color=36465D&style=flat-square)
+![r](https://img.shields.io/static/v1?label=&message=R&color=36465D&style=flat-square)
+![pandas](https://img.shields.io/static/v1?label=&message=pandas&color=36465D&style=flat-square)
+![scikit-learn](https://img.shields.io/static/v1?label=&message=scikit-learn&color=36465D&style=flat-square)
 
-Fraud analytics inside the Fraud Strategies team at a global payments/fintech company:
+![genai](https://img.shields.io/static/v1?label=&message=genai:&color=111&style=flat-square)
+![hugging-face](https://img.shields.io/static/v1?label=&message=Hugging%20Face&color=36465D&style=flat-square)
+![langgraph](https://img.shields.io/static/v1?label=&message=LangGraph&color=36465D&style=flat-square)
 
-- Transaction-level analysis in **SQL Server (T-SQL)** — aggregation, window functions for classification within groups, joins, data-quality checks
-- Fraud detection and prevention strategy: exploratory analysis, edge-case detection, reporting
-- Dashboards and reports for fraud monitoring (**Power BI**)
+![infra](https://img.shields.io/static/v1?label=&message=infra:&color=111&style=flat-square)
+![git](https://img.shields.io/static/v1?label=&message=Git&color=36465D&style=flat-square)
+![aws](https://img.shields.io/static/v1?label=&message=AWS&color=36465D&style=flat-square)
+![jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=36465D&style=flat-square)
+
+### Experience
+
+| Position | Organization | Field | Period |
+| --- | --- | --- | --- |
+| **Intern Analyst, Fraud Strategies** | **[InComm Payments](https://www.incomm.com/)** | **Fraud strategy, transaction data, T-SQL, Power BI** | **2026 — present** |
+| Research Scholar (CNPq) | NUPI / EBMSP | Genomic surveillance, Excel, statistics | 2022 — 2024 |
+| Scholar → Coordinator | PET Biomedicine (MEC) | Led a 16-person team | 2021 — 2023 |
+
+At InComm I work inside the Fraud Strategies team: transaction-level analysis in SQL Server (aggregation, window functions for classification within groups, joins, data-quality checks), fraud detection and prevention strategy, and Power BI dashboards for fraud monitoring.
 
 ### Background — proof of method
 
-Biomedical scientist by training (EBMSP, 2024) and a CNPq Undergraduate Research Scholar for 2+ years at NUPI/EBMSP, working on genomic surveillance of arboviruses and COVID-19 — finding emerging signals in large population datasets with SQL and statistics.
+I came to fraud analytics from genomic disease surveillance. As a CNPq research scholar at NUPI/EBMSP I spent two years finding emerging signals in large population datasets — arboviruses and COVID-19 — with Excel and statistics.
 
 The problem shape hasn't changed, only the data: anomaly and pattern detection at scale.
 
-### Bioinformatics &amp; GenAI
+### Education
 
-Still an active track, not a past life.
+| Program | Institution | Status |
+| --- | --- | --- |
+| Post-grad, **Bioinformatics Applied to Healthcare** (474h) | PUC Minas | In progress → Nov 2027 |
+| Post-grad, **Data Science Applied to Healthcare** (444h) | PUC Minas | Completed Apr 2026 |
+| BSc, **Biomedicine** (GPA 9.13/10) | EBMSP | Completed Dec 2024 |
 
-- **PUC Minas** — *Data Science Applied to Healthcare*, **completed 2026** (444h)
-- **PUC Minas** — *Bioinformatics Applied to Healthcare*, **in progress → Nov 2027** (474h)
-- Member of the **Micro Sphere Research (MSR)** group (2025 – present), in bioinformatics and epidemiology
+Member of the **Micro Sphere Research (MSR)** group since 2025, in bioinformatics and epidemiology.
 
-**Featured project — [genai-biomedical-nlp](https://github.com/eduramosalves/genai-biomedical-nlp)**
-An end-to-end GenAI + NLP pipeline over PubMed literature (arbovirus surveillance): collection via NCBI Entrez → zero-shot classification + biomedical NER (Hugging Face) → LLM summarization → validation against a hand-labeled holdout. MIT, runs free on Colab.
+### Projects
 
-### Open source
+**[genai-biomedical-nlp](https://github.com/eduramosalves/genai-biomedical-nlp)** — an end-to-end GenAI + NLP pipeline over PubMed literature (arbovirus surveillance): collection via NCBI Entrez → zero-shot classification + biomedical NER (Hugging Face) → LLM summarization → validation against a hand-labeled holdout. MIT, runs free on Colab.
 
 - **[variantscribe](https://github.com/eduramosalves/variantscribe)** — agentic clinical variant interpretation: drafts ACMG/AMP classifications with cited evidence, designed to be evaluated against ClinVar gold labels. RAG + LLM eval + LLMOps.
 - **[dual-agent-review](https://github.com/eduramosalves/dual-agent-review)** — cross-agent code review: Claude Code and Gemini CLI audit each other, the human decides.
 
-Study notes, in the open:
+### Certifications
 
-- [bioinformatics-with-biopython](https://github.com/eduramosalves/bioinformatics-with-biopython) — Biopython exercises and notes
-- [tidymodels-studies](https://github.com/eduramosalves/tidymodels-studies) — notes from *Tidy Modeling with R*
-- [python-r-data-science](https://github.com/eduramosalves/python-r-data-science) — bridging Python &amp; R for data work
-
-### Toolbox
-
-`SQL` · `T-SQL / SQL Server` · `Power BI` · `Excel` · `Python` · `R` · `pandas` · `scikit-learn` · `Hugging Face` · `Git` · `AWS` · `Jupyter`
+| Certification | Institution | Year |
+| --- | --- | --- |
+| Bioinformatics Summer Course (80h) | Universidade de São Paulo (USP) | 2026 |
+| Tropical and Neglected Infectious Diseases — One Health (80h) | EBMSP | 2024 |
+| NGS Sequencing by Nanopore Technology (MinION) | Workshop, theory and practice | 2023 |
+| Scientific Research Methodology (40h) | Fundação Oswaldo Cruz (Fiocruz) | 2023 |
+| Tutorial Education Program (PET) | Brazilian Ministry of Education (MEC) | 2023 |
 
 <p align="center"><sub>🇧🇷 Based in Bahia, Brazil · open to remote / relocation</sub></p>
 
